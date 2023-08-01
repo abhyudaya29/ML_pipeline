@@ -1,8 +1,11 @@
 # ML_pipeline project 
 
-Tech Stack:
-Python
-Jupiter
-MongoDB
-AWS Cloud
+TO run the web app:
+use command  "app.py"
 
+## Tech Stack Used
+Python
+AWS Cloud
+CICD PIPELINE
+MONGODB
+FLASK
