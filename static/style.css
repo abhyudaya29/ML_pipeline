@@ -10,8 +10,9 @@
 .button button a{
     border: 2px solid black;
     display: flex;
+    justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     margin: 10px;
     padding: 10px;
     /* background-color: aqua; */
@@ -20,6 +21,14 @@
     /* background-color: aqua; */
 }
 
-h1{
+.button h1{
     font-weight: bold;
+    align-items: end;
+
+}
+.button h2{
+    align-items: center;
+    background-color: rgb(179, 122, 232);
+    margin: 20px;
+    padding: 30px;
 }
