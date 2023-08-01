@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin: 130px;
+
+}
+
+.button button a{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    /* background-color: aqua; */
+
+
+    /* background-color: aqua; */
+}
+
+h1{
+    font-weight: bold;
+}
