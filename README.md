@@ -1,7 +1,7 @@
 # ML_pipeline project 
 
-TO run the web app:
-use command  "app.py"
+To run the web app:
+use the command  "app.py"
 
 ## Tech Stack Used
 Python
@@ -9,3 +9,4 @@ AWS Cloud
 CICD PIPELINE
 MONGODB
 FLASK
+HTML,CSS
